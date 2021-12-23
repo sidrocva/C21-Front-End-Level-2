@@ -166,6 +166,6 @@ Main{
 .item-text{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    Justify-content: center;
     margin-left: 10px;
 }
